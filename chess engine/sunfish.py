@@ -10,7 +10,7 @@ from collections import namedtuple, defaultdict
 #from functools import partial
 #print = partial(print, flush=True)
 
-version = "sunfish 2023"
+version = "HarshaChess 1.0"
 
 ###############################################################################
 # Piece-Square tables. Tune these to change sunfish's behaviour
